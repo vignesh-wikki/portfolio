@@ -1,0 +1,54 @@
+*{
+  margin:0;
+  padding: 0;
+}
+
+.background-img {
+  background: url("../assets/1000_F_555952014_or8iUw9WbfUDAOC8RW82F781jpcpp5JV-transformed\ \(1\).jpeg"),repeat 0 0;
+  width:100%;
+  height:100vh;
+  overflow: hidden;
+}
+.background-img-register {
+  background: url("../assets/1000_F_553731741_2HMsJ8uFSGQp0w17RCkORuqD8ZYPqKN5-transformed.jpeg") ;
+  width:100vw;
+  height:100vh;
+  overflow: hidden;
+}
+
+.bigcontainer{
+  width: 100vh;
+  height: 100vh;
+}
+
+.pic{
+  display:inline-block;
+  width: 100px;
+  height: 100px;
+}
+
+.pad-left{
+  padding-left: 200px;
+}
+
+.pad-right{
+  padding-right: 100px;
+}
+
+.glass-card{
+  background: rgba( 255, 255, 255, 0.15 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 11px );
+-webkit-backdrop-filter: blur( 11px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+.form-label-custom{
+  color: aliceblue;
+}
+
+.logo-padding{
+  margin-left: 120px;
+}
+

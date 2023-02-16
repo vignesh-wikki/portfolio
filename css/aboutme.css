@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@100&display=swap');
+body{
+  background: url("../assets/aboutme-bg-img.jpg");
+  font-family: 'Exo', sans-serif;
+}
+
+.font-custom{
+  font-weight: bolder;
+}
+
+.button-custom{
+  border-style: none;
+  border-radius: 8px;
+  padding: 10px;
+ color:black;
+ font-size: 20px;
+ font-weight: bolder;
+}
+
+.button-custom{
+  box-shadow: rgba(45, 35, 66, 0.4) 0 4px 8px, rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #D6D6E7 0 -3px 0 inset;
+  background-color: lightpink;
+}
+.button-custom:hover{
+  transform: translateY(-5px);
+}
